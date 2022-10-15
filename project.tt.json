@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "vue3-taro3-ipet",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
